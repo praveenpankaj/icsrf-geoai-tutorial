@@ -15,7 +15,7 @@ Map.addLayer(roi, { color: "red" }, "ROI (Mawsynram buffer)");
  * 1) SENTINEL-2 SR HARMONIZED: median/max/min/mosaic
  ***********************************************/
 
-// Cloud mask using QA60 (basic & beginner friendly)
+// Cloud mask using QA60 
 function maskS2sr(img) {
   var qa = img.select("QA60");
   var cloudBitMask = 1 << 10; // clouds
