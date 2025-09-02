@@ -18,7 +18,7 @@ Participants will learn:
 * Background on **Google Earth Engine** and its assets
 * Background on **Google Cloud Computing** and integrating with GEE
 * Access and analyze satellite imagery using **Google Earth Engine**
-* Case Studies: Apply **geospatial AI techniques** for land-use, crop monitoring and urban uses.
+* Case Studies: Apply **geospatial AI techniques** for agriculture monitoring.
   
 ---
 
@@ -26,9 +26,7 @@ Participants will learn:
 
 * `notebooks/` → Jupyter Notebooks for hands-on exercises
 * `scripts/` → Supporting Python/JavaScript scripts for GEE
-* `data/` → Sample datasets for demonstration (where licensing permits)
 * `slides/` → Presentation slides from the tutorial
-* `resources/` → References, papers, and further reading
 
 ---
 
@@ -40,7 +38,7 @@ To follow along with the workshop:
 * Python 3.9+ with the following packages:
 
   ```bash
-  pip install geemap geopandas rasterio scikit-learn
+  pip install geemap scikit-learn
   ```
 * Jupyter Notebook or Google Colab
 
@@ -51,8 +49,8 @@ To follow along with the workshop:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/geospatial-ai-workshop.git
-   cd geospatial-ai-workshop
+   git clone https://github.com/praveenpankaj/icsrf-geoai-tutorial.git
+   cd icsrf-geoai-tutorial
    ```
 2. Launch Jupyter Notebook or Google Colab
 3. Open and run the tutorial notebooks in `notebooks/`
@@ -64,7 +62,6 @@ To follow along with the workshop:
 By the end of the tutorial, participants will be able to:
 ✅ Understand the fundamentals of **Google Earth Engine**
 ✅ Perform **remote sensing data analysis** for agriculture
-✅ Apply **AI/ML models** to geospatial datasets
 ✅ Translate geospatial insights into **sustainable policy and practice**
 
 ---
@@ -88,7 +85,7 @@ If you use materials from this workshop, please cite as:
 
 ## 👥 Organizers
 
-This tutorial is part of the **International Conference on Sustainable & Resilient Futures (ICSRF 2025)**.
+This tutorial is part of the [**International Conference on Sustainable & Resilient Futures (ICSRF 2025)**](https://www.amrita.edu/events/icsrf25/).
 For inquiries, contact: *\[praveenpankaj@ieee.org]*
 
 ---
