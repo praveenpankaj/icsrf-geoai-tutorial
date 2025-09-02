@@ -60,8 +60,11 @@ To follow along with the workshop:
 ## 📌 Learning Objectives
 
 By the end of the tutorial, participants will be able to:
+
 ✅ Understand the fundamentals of **Google Earth Engine**
+
 ✅ Perform **remote sensing data analysis** for agriculture
+
 ✅ Translate geospatial insights into **sustainable policy and practice**
 
 ---
