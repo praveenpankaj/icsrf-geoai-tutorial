@@ -54,6 +54,7 @@ To follow along with the workshop:
    ```
 2. Launch Jupyter Notebook or Google Colab
 3. Open and run the tutorial notebooks in `notebooks/`
+4. Copy the scripts in `scripts/' into GEE
 
 ---
 
