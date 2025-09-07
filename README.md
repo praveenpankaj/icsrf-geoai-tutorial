@@ -5,6 +5,9 @@
 📍 *Geospatial AI Tutorial at the ICSRF 2025 – International Conference on Sustainable & Resilient Futures: Bridging Science, Policy, and Practice*
 📅 **Date:** August 31, 2025
 
+**Team:** 
+Praveen Pankajakshan, Kulvanth S, Kumar Rajamani, Gade Sai Shravan, Ashrith Raj Sriram
+
 ---
 
 ## 📖 Overview
